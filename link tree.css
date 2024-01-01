@@ -2,7 +2,7 @@ body{
 margin: auto;
 padding: auto;
 background-color: #DCD9D4;
-background-image: linear-gradient(to right, #434343 0%, black 100%);
+
 object-fit: cover;
 background-repeat: none;
 height: 100vh;
@@ -11,7 +11,7 @@ height: 100vh;
 height: 40vh;
 color: white;
 position: relative;
-
+width: 200vh;
 
 }
 
