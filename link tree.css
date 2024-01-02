@@ -12,7 +12,7 @@ height: 40vh;
 color: white;
 position: relative;
 width: 200vh;
-
+background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
 }
 
 
@@ -21,7 +21,7 @@ content: '';
 position: absolute;
 inset: 0;
 z-index: -1;
-background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background:rgba(3, 27, 53, 0.6);
 }
 
 video{
