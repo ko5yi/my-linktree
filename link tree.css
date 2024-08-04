@@ -12,7 +12,7 @@ height: 40vh;
 color: white;
 position: relative;
 width: 200vh;
-background-image: url(pics/mine.mp4);
+
 
 }
 
@@ -23,6 +23,7 @@ position: absolute;
 inset: 0;
 z-index: -1;
   background:rgba(3, 27, 53, 0.6);
+background-image: url(mine.mp4);
 }
 
 video{
